@@ -1,0 +1,14 @@
+/Users/alejandrozaldivarhernandez/VSC/bin/Debug/net9.0/VSC
+/Users/alejandrozaldivarhernandez/VSC/bin/Debug/net9.0/VSC.deps.json
+/Users/alejandrozaldivarhernandez/VSC/bin/Debug/net9.0/VSC.runtimeconfig.json
+/Users/alejandrozaldivarhernandez/VSC/bin/Debug/net9.0/VSC.dll
+/Users/alejandrozaldivarhernandez/VSC/bin/Debug/net9.0/VSC.pdb
+/Users/alejandrozaldivarhernandez/VSC/obj/Debug/net9.0/VSC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandrozaldivarhernandez/VSC/obj/Debug/net9.0/VSC.AssemblyInfoInputs.cache
+/Users/alejandrozaldivarhernandez/VSC/obj/Debug/net9.0/VSC.AssemblyInfo.cs
+/Users/alejandrozaldivarhernandez/VSC/obj/Debug/net9.0/VSC.csproj.CoreCompileInputs.cache
+/Users/alejandrozaldivarhernandez/VSC/obj/Debug/net9.0/VSC.dll
+/Users/alejandrozaldivarhernandez/VSC/obj/Debug/net9.0/refint/VSC.dll
+/Users/alejandrozaldivarhernandez/VSC/obj/Debug/net9.0/VSC.pdb
+/Users/alejandrozaldivarhernandez/VSC/obj/Debug/net9.0/VSC.genruntimeconfig.cache
+/Users/alejandrozaldivarhernandez/VSC/obj/Debug/net9.0/ref/VSC.dll
